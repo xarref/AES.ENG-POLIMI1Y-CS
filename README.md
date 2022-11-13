@@ -15,6 +15,11 @@ It would be great if we all collaborated to create a repository with all the tut
 Please adhere to this project's `code of conduct`.
 
 
+## Original files and excercise
+
+[Here](https://github.com/Polimi-Courses/Informatica_Aerospaziali-src) you can find the original files and excercises uploaded by the professor.
+please don't upload them in this repo as they are: consider adding comments or changing the solving approach before.
+
 ## Roadmap
 
 - Complete with all the excercise
