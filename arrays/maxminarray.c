@@ -4,10 +4,10 @@
 #include "stdio.h"    //includo la librera standard
 #define size 10		// definisco qui la grandezza dell' array cosi' e' pi' facile cambiarla in caso
 
-int int main(int argc, char const *argv[])  //lo fa in automatico il compilatore (= int main())
+int  main()  
 {
 
-	int numeri[size] = {2, 6, 33, 22, 76} //definisco il mio array (di grandezza size) e cosa ci sta dentro
+	int numeri[size] = {-62, 6, 33, 22, 76}; //definisco il mio array (di grandezza size) e cosa ci sta dentro
 
 	int max = numeri[0]; //inizializzo il max alla posizione 0 dell'array, poi controllo spostandomi a dx e in caso sotituisco
 	int min = numeri[0]; //inizializzo il min alla posizione 0 dell'array, poi controllo spostandomi a dx e in caso sostituisco
