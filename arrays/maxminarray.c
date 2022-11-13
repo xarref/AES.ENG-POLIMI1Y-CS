@@ -10,7 +10,7 @@ int int main(int argc, char const *argv[])  //lo fa in automatico il compilatore
 	int numeri[size] = {2, 6, 33, 22, 76} //definisco il mio array (di grandezza size) e cosa ci sta dentro
 
 	int max = numeri[0]; //inizializzo il max alla posizione 0 dell'array, poi controllo spostandomi a dx e in caso sotituisco
-	int min + numeri[0]; //inizializzo il min alla posizione 0 dell'array, poi controllo spostandomi a dx e in caso sostituisco
+	int min = numeri[0]; //inizializzo il min alla posizione 0 dell'array, poi controllo spostandomi a dx e in caso sostituisco
 	int i; //inizializzo una i che mi torna comoda come contatore
 
 	for (i = 0; i<size; i++){ //ciclo for. mi serve a spostarmi verso dx lungo l'array
