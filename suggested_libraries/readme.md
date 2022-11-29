@@ -11,3 +11,5 @@ why:
 -Array Sort Function
 To sort an array using an arbitrary comparison function, use the qsort function. The prototype for this function is in `stdlib.h'.
 
+GSL - GNU Scientific Library
+https://www.gnu.org/software/gsl/
