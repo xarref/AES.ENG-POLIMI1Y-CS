@@ -13,3 +13,9 @@ To sort an array using an arbitrary comparison function, use the qsort function.
 
 GSL - GNU Scientific Library
 https://www.gnu.org/software/gsl/
+
+
+c-vector
+https://github.com/xarref/c-vector
+
+for everything related to vectors
