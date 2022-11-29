@@ -20,10 +20,10 @@ printf("inserisci un numero di cui fare tutte le potenze e fino a che potenza vu
 scanf("%d %d", &N, &K);
 printf("potenze:\n");
 
-for (int i = 1; i <= K; ++i)
+for (int i = 1; i <= K; ++i)  // ciclo for per fare le potenze da 1 al valore K
 {
 	int a;
-	a = pow(N,i);
+	a = pow(N,i);   // libreria math.h
 
 	printf("%d \n", a);
 }
