@@ -2,10 +2,6 @@
 Excercise to learn C language at PoliMi. From course "computer science for aerospace engineering", 1 year at polimi.
 
 
-## Feedback
-
-If you have any feedback, please reach out to me at ferracanechristian.it@gmail.com or 
-[@christianferracane](https://https://www.instagram.com/christianferracane/) on IG
 
 ## Contributing
 
